@@ -117,6 +117,3 @@ export PATH="$PATH:/opt/nvim-linux-x86_64/bin"
 
 # Starship Init
 eval "$(starship init zsh)"
-
-# Cursor stuff
-echo -ne '\e[1 q'
